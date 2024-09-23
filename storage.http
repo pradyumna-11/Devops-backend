@@ -1,0 +1,6 @@
+POST http://localhost:3000/webhook/github
+Content-Type: application/json
+
+{
+    "name" : "Hello world"
+}
